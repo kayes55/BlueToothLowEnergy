@@ -1,9 +1,6 @@
 //
-//  BlueToothLowEnergyUITests.swift
-//  BlueToothLowEnergyUITests
-//
-//  Created by Miftah Uddin on 1/23/20.
-//  Copyright © 2020 Miftah Uddin. All rights reserved.
+//  Created by Imrul Kayes on 1/23/20.
+//  Copyright © 2020 Imrul Kayes. All rights reserved.
 //
 
 import XCTest
